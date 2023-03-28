@@ -120,6 +120,13 @@
     exit
     ```
 
+#### python3安装redis模块
+
+    Python 要使用 redis，需要先安装 redis 模块：
+    ```
+    $ sudo pip3 install redis
+    ```
+
 #### 参考资料
 
 - Redis菜鸟教程 <https://www.runoob.com/redis/redis-tutorial.html>
